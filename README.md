@@ -3,7 +3,7 @@
 A simple and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
- https://jatink25.github.io/Rock-Paper-Scs-Game/
+https://rockpaperscsgame.netlify.app/
 
 ## 🛠️ Technologies Used
 - HTML
